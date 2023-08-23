@@ -8,7 +8,7 @@ This project is a detailed study on robot kinematics, focusing on robot assembly
 - **Course:** Electrical Engineering Degree
 - **Subject:** Robotics
 - **Student:** Elias Anzini Junior
-- **Semester:** 2023/1
+- **Semester:** 2022/2
 
 ## Content
 
