@@ -1,5 +1,3 @@
-![Robot](images/Robot.gif)
-
 # Robotics Report - Robot Kinematics
 
 This project is a detailed study on robot kinematics, focusing on robot assembly and the definition of Denavit parameters. The project was developed as part of the Electrical Engineering course at the JOINVILLE CAMPUS of the FEDERAL INSTITUTE OF EDUCATION, SCIENCE, AND TECHNOLOGY OF SANTA CATARINA.
@@ -34,4 +32,8 @@ Contributions to improve the project are welcome. Feel free to open an issue or 
 For questions, suggestions, or feedback, please contact:
 - Elias Anzini Junior: [eliasanzinijlle@outlook.com](mailto:eliasanzinijlle@outlook.com)
 
+# Results
+
 ![Robot](images/Project.png)
+
+![Robot](images/Robot.gif)
